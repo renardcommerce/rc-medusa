@@ -9,6 +9,10 @@ COPY . .
 
 RUN npx medusa build
 
+WORKDIR /app/.medusa/server
+
+RUN npm install --legacy-peer-deps
+
 EXPOSE 9000
 
 ENV NODE_ENV=production
