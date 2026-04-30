@@ -17,4 +17,4 @@ EXPOSE 9000
 
 ENV NODE_ENV=production
 
-CMD npx medusa db:migrate && npx medusa start
+CMD cd /app && npx medusa db:migrate && cd /app/.medusa/server && npx medusa start
