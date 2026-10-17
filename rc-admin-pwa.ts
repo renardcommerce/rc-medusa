@@ -13,7 +13,7 @@ const BASE = "/app/" + OUT_DIR + "/"
 const FILES = {
   ico: "rc-choice-admin-favicon.d8a951c1.ico",
   svg: "rc-choice-admin-favicon.6075b8e0.svg",
-  apple: "rc-choice-admin-apple-touch-icon.74dd55b3.png",
+  apple: "rc-choice-admin-apple-touch-icon.42a3ec84.png",
   manifest: "rc-choice-admin.webmanifest",
 }
 
