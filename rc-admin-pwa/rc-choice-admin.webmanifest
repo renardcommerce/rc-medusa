@@ -9,25 +9,25 @@
   "theme_color": "#0B2A78",
   "icons": [
     {
-      "src": "/app/rc-admin/rc-choice-admin-icon-192.d50f1ae2.png",
+      "src": "/app/rc-admin/rc-choice-admin-icon-192.d4d3498e.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/app/rc-admin/rc-choice-admin-icon-512.cba0ce16.png",
+      "src": "/app/rc-admin/rc-choice-admin-icon-512.f0cf3466.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/app/rc-admin/rc-choice-admin-maskable-192.f3cea014.png",
+      "src": "/app/rc-admin/rc-choice-admin-maskable-192.630f9f8a.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/app/rc-admin/rc-choice-admin-maskable-512.99643033.png",
+      "src": "/app/rc-admin/rc-choice-admin-maskable-512.46423301.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
